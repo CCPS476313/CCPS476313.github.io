@@ -1,1 +1,35 @@
+p{
+  font-family: Sitka Text;
+  color: Navy;
+}
 
+ul{
+  list-style-type: square;
+  color: lightpink
+}
+
+ol{
+  list-style-type: upper-roman;
+  color: lightpink
+}
+
+h1{
+  font-size: 18px;
+  background-color: #00FFFF;
+  padding: 14px
+}
+
+header{
+  text-align: center;
+  margin-top: 10px;
+}
+
+body{
+  background-color: #FFFAF0;
+  font-size: 14px;
+}
+footer{
+  text-align: center;
+  font-size: 18px;
+  bottom: 10px;
+}
