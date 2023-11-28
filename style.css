@@ -5,18 +5,18 @@ p{
 
 ul{
   list-style-type: square;
-  color: lightpink
+  color: #FFB6C1;
 }
 
 ol{
   list-style-type: upper-roman;
-  color: lightpink
+  color: #FFB6C1;
 }
 
 h1{
   font-size: 18px;
   background-color: #00FFFF;
-  padding: 14px
+  padding: 14px;
 }
 
 header{
